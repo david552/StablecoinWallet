@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="StablecoinWallet.Application/StablecoinWallet.Application.csproj" />
+    <Project Path="StablecoinWallet.Domain/StablecoinWallet.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="StablecoinWallet.Infrastructure/StablecoinWallet.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="StablecoinWallet/StablecoinWallet.csproj" />
+  </Folder>
+</Solution>
