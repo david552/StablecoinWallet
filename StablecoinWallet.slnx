@@ -8,6 +8,6 @@
     <Project Path="StablecoinWallet.Infrastructure/StablecoinWallet.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/src/Presentation/">
-    <Project Path="StablecoinWallet/StablecoinWallet.csproj" />
+    <Project Path="StablecoinWallet/StablecoinWallet.Api.csproj" />
   </Folder>
 </Solution>
